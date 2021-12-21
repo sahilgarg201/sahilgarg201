@@ -6,11 +6,11 @@
 -     Contact me on my gmail id- sahilgarg3468@gmail.com
 <html>
 <body>
- <img src="final.gif" width="700" align="centre">
+ <img src="final.gif" width="500" align="centre">
 </body>
 </html>
 <!---
 sahilgarg201/sahilgarg201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Gif](final.gif)
+![Cover-Page(final.gif)
