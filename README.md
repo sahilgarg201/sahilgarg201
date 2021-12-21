@@ -6,7 +6,7 @@
 -     Contact me on my gmail id- sahilgarg3468@gmail.com
 <html>
 <body>
- <img src="final.gif" width="500" align="centre">
+ <img src="final.gif" width="500" align="center">
 </body>
 </html>
 <!---
