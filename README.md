@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on web designing projects where i can explore the field.
 - 📫 How to reach me:-
 -     Contact me on my gmail id- sahilgarg3468@gmail.com
- [<img src="C:\Users\hp\Downloads\final" width="50"/]
+<html>
+ <img src="C:\Users\hp\Downloads\final" width="50">
+</html>
 <!---
 sahilgarg201/sahilgarg201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
