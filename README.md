@@ -2,7 +2,7 @@ THIS PAGE IS UNDERDEVELOPMENT
 <html>
 <body>
  <h1 align="center">HOLA</h1>
- <img src="hello.gif" width="50" align = "center">
+ <img src="hello.gif" width="200" align = "center">
  <h3>Currently pursuing Computer Science Engineering with Specialization in Data Science from VIT, Vellore. Been practicing Python for almost 4 years and now into C and C++ for competitive programming. Being an aspiring Data Science currently learning and working under the domain of ML and AI.</h3>
  <img src="final.gif" width="500" align = "center">
 </body>
