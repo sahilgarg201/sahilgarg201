@@ -16,3 +16,8 @@ sahilgarg201/sahilgarg201 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+<div id=”mainDiv”>
+ <img id=”centerdImage” src=”final.gif”>
+  #mainDiv{Width:100%;}
+  #centeredImage {margin-left:auto;margin-right:auto;float :none;}
+  <\div>
