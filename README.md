@@ -6,21 +6,9 @@ THIS PAGE IS UNDERDEVELOPMENT
  <img src="final.gif" width="500" align = "center">
  <div id=”mainDiv”>
  <img id=”centerdImage” src=”final.gif”><\img>
-  #mainDiv{
-   Width:100%;
-}
-
-#centeredImage {
-
-margin-left:auto;
-
-margin-right:auto;
-
-float :none;
-
-}
-
-<\div>
+  #mainDiv{Width:100%;}
+  #centeredImage {margin-left:auto;margin-right:auto;float :none;}
+  <\div>
 </body>
 </html>
 <!---
